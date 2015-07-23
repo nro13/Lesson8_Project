@@ -1,0 +1,86 @@
+{
+ "sections": [
+  {
+   "id": "1ba17f-1e99-282c-5353-8ab7bb8e912d",
+   "title": "Overview (70 pts)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Overview--70-pts--1ba1.md"
+  },
+  {
+   "id": "55064551-632-688e-c2b8-17d3243c56",
+   "title": "What is AJAX?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-is-AJAX--5506.md"
+  },
+  {
+   "id": "ea613e1e-255f-19e9-e266-32f4db213c32",
+   "title": "--What is JSON",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/--What-is-JSON-ea61.md"
+  },
+  {
+   "id": "938ce1be-1c3b-8175-a60a-37e9e9cc4d09",
+   "title": "--HTML File Overview",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/--HTML-File-Overview-938c.md"
+  },
+  {
+   "id": "df479aba-9559-accf-408-1afb3af6a120",
+   "title": "--HTML Code Segment #1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/--HTML-Code-Segment--1-df47.md"
+  },
+  {
+   "id": "c81b7e3e-69b1-f2c9-6571-bf59aa26b4f8",
+   "title": "--HTML Code Segment #2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/--HTML-Code-Segment--2-c81b.md"
+  },
+  {
+   "id": "c1bd214-91e5-4ef8-e6b3-28a34782510a",
+   "title": "--HTML Code Segment #3",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/--HTML-Code-Segment--3-c1bd.md"
+  },
+  {
+   "id": "2e1317c3-9477-5bab-4e52-2c74e764d132",
+   "title": "--Assignment #8",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/--Assignment--8-2e13.md"
+  },
+  {
+   "id": "ce25dc3-9f55-ce51-f8a3-a0cc240fc4af",
+   "title": "Extra Credit (+5)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extra-Credit---5--ce25.md"
+  },
+  {
+   "id": "5209db59-accf-174a-6d57-cbcaeae06450",
+   "title": "Git Repository (10 pts)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Git-Repository--10-pts--5209.md"
+  }
+ ],
+ "theme": "paper",
+ "scripts": []
+}
